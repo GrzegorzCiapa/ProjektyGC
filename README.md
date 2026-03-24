@@ -1,8 +1,7 @@
-# Portfolio Projektów
+# Grzegorz Ciapa - Portfolio Projektów
 
-W tym repozytorium znajduje się zestawienie moich projektów, które łączą zagadnienia z zakresu sztucznej inteligencji, wizji komputerowej, automatyzacji oraz obliczeń kwantowych (Quantum Computing) w analizie finansowo-medycznej.
 
-## 📌 Lista projektów
+##  Lista projektów
 
 ### 1. [QC: Analiza i optymalizacja kosztów transplantacji](https://github.com/GrzegorzCiapa/QC-Koszty-transplantacji-/tree/main)
 **Opis:** Interdyscyplinarny projekt badawczy na styku obliczeń kwantowych i analityki finansowej. Skupia się na wykorzystaniu algorytmów kwantowych do modelowania, analizy i optymalizacji procesów logistycznych oraz kosztów związanych z procedurami transplantologicznymi.
