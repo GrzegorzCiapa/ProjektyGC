@@ -2,7 +2,7 @@
 
 
 ##  Lista projektów
-### 1. [Symulator QKD z wykorzystaniem protokołu BB84 (in progress)]
+### 1. Symulator QKD z wykorzystaniem protokołu BB84 (in progress)
 ### 2. [QC: Analiza i optymalizacja kosztów transplantacji](https://github.com/GrzegorzCiapa/QC-Koszty-transplantacji-/tree/main)
 **Opis:** Projekt skupia się na wykorzystaniu algorytmów kwantowych do modelowania, analizy i optymalizacji kosztów związanych z procedurami transplantologicznymi.
 
