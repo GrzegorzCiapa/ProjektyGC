@@ -14,4 +14,4 @@
 
 
 ---
-**Technologie:** `Python`, `ConvNeXt`, `Quantum Computing`, `AI / LLM`, `LaTeX`
+**Technologie:** `Python`, `ConvNeXt`, `Quantum Computing`, `AI / LLM`, `LaTeX`, `Qskit`
