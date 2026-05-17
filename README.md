@@ -2,7 +2,8 @@
 
 
 ##  Lista projektów
-### 1. Symulator QKD z wykorzystaniem protokołu BB84 oraz BBM92
+### 1. [Symulator QKD z wykorzystaniem protokołu BB84 oraz BBM92](https://github.com/GrzegorzCiapa/Symulator-QKD-z-wykorzystaniem-protoko-u-BB84-oraz-BBM92/tree/main)
+**Opis:** Zaawansowany symulator warstwy kwantowej i klasycznej dla kryptograficznych protokołów BB84 oraz BBM92. 
 ### 2. [QC: Analiza i optymalizacja kosztów transplantacji](https://github.com/GrzegorzCiapa/QC-Koszty-transplantacji-/tree/main)
 **Opis:** Projekt skupia się na wykorzystaniu algorytmów kwantowych do modelowania, analizy i optymalizacji kosztów związanych z procedurami transplantologicznymi.
 
