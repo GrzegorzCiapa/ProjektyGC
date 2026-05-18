@@ -6,7 +6,7 @@
 **Opis:** Zaawansowany symulator warstwy kwantowej i klasycznej dla kryptograficznych protokołów BB84 oraz BBM92. 
 ### 2. [QC: Analiza i optymalizacja kosztów transplantacji](https://github.com/GrzegorzCiapa/QC-Koszty-transplantacji-/tree/main)
 **Opis:** Projekt skupia się na wykorzystaniu algorytmów kwantowych do modelowania, analizy i optymalizacji kosztów związanych z procedurami transplantologicznymi.
-### 3. [Testowanie losowości ciągów generowanych przez QRNG](https://github.com/GrzegorzCiapa/Testowanie-losowosci-ciagow-QRNG)In Progress
+### 3. [Testowanie losowości ciągów generowanych przez QRNG](https://github.com/GrzegorzCiapa/Testowanie-losowosci-ciagow-QRNG) !In Progress!
 **Opis:** 
 ### 4. [Zautomatyzowany System AI do Generowania Dokumentacji Akademickiej (LaTeX)](https://github.com/GrzegorzCiapa/Zautomatyzowany-System-AI-do-Generowania-Dokumentacji-Akademickiej-LaTeX-/tree/main)
 **Opis:** Praktyczne narzędzie wspierające pracę naukową. System wykorzystuje algorytmy sztucznej inteligencji do automatyzacji procesu tworzenia i formatowania profesjonalnych tekstów naukowych w środowisku LaTeX, co znacząco usprawnia pracę z notatkami.
