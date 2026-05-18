@@ -7,10 +7,13 @@
 ### 2. [QC: Analiza i optymalizacja kosztów transplantacji](https://github.com/GrzegorzCiapa/QC-Koszty-transplantacji-/tree/main)
 **Opis:** Projekt skupia się na wykorzystaniu algorytmów kwantowych do modelowania, analizy i optymalizacji kosztów związanych z procedurami transplantologicznymi.
 
-### 3. [Zautomatyzowany System AI do Generowania Dokumentacji Akademickiej (LaTeX)](https://github.com/GrzegorzCiapa/Zautomatyzowany-System-AI-do-Generowania-Dokumentacji-Akademickiej-LaTeX-/tree/main)
+
+### 3. [Testowanie losowości ciągów generowanych przez QRNG](https://github.com/GrzegorzCiapa/Zautomatyzowany-System-AI-do-Generowania-Dokumentacji-Akademickiej-LaTeX-/tree/main)
+**Opis:** Praktyczne narzędzie wspierające pracę naukową. System wykorzystuje algorytmy sztucznej inteligencji do automatyzacji procesu tworzenia i formatowania profesjonalnych tekstów naukowych w środowisku LaTeX, co znacząco usprawnia pracę z notatkami.
+### 4. [Zautomatyzowany System AI do Generowania Dokumentacji Akademickiej (LaTeX)](https://github.com/GrzegorzCiapa/Zautomatyzowany-System-AI-do-Generowania-Dokumentacji-Akademickiej-LaTeX-/tree/main)
 **Opis:** Praktyczne narzędzie wspierające pracę naukową. System wykorzystuje algorytmy sztucznej inteligencji do automatyzacji procesu tworzenia i formatowania profesjonalnych tekstów naukowych w środowisku LaTeX, co znacząco usprawnia pracę z notatkami.
 
-### 4. [Klasyfikacja Obrazów Jedzenia (Food-101 Tiny) przy użyciu ConvNeXt](https://github.com/GrzegorzCiapa/Klasyfikacja-Obraz-w-Jedzenia-Food-101-Tiny-przy-u-yciu-ConvNeXt/tree/main)
+### 5. [Klasyfikacja Obrazów Jedzenia (Food-101 Tiny) przy użyciu ConvNeXt](https://github.com/GrzegorzCiapa/Klasyfikacja-Obraz-w-Jedzenia-Food-101-Tiny-przy-u-yciu-ConvNeXt/tree/main)
 **Opis:** Projekt oparty na architekturze głębokich sieci neuronowych. Jego głównym celem jest trenowanie i ewaluacja modelu ConvNeXt do precyzyjnego rozpoznawania i klasyfikowania potraw na podstawie obrazów, z wykorzystaniem zoptymalizowanego zbioru danych Food-101 Tiny.
 
 
